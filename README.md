@@ -21,3 +21,4 @@
 
 ## TODO
 - Automate Adding Symlinks to Executables to %PATH%
+- Notate that Qt by default will try to install to: ```C:\Qt\```
