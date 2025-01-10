@@ -28,7 +28,7 @@ SET QT_DOMAIN=https://download.qt.io/official_releases/online_installers
 SET QT_URL=%QT_DOMAIN%/qt-unified-windows-%ARCH%-online.exe 
 
 SET QT_TMP=%TMP%\GetQtSdk
-SET QT_INSTALLER=qt-online-installer-windows-%ARCH%.exe
+SET QT_INSTALLER=qt-online-installer.exe
 
 ::==============================================================================
 :: Check if Qt Installer is present
